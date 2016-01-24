@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;parse-obj3d&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../hello" />
+      <root url="file://$PROJECT_DIR$/../.." />
+      <root url="file://$PROJECT_DIR$/../../../.DS_Store" />
+    </CLASSES>
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$/.idea" />
+      <root url="file://$PROJECT_DIR$/../../.idea" />
+      <root url="file://$PROJECT_DIR$/../math3d/.git" />
+      <root url="file://$PROJECT_DIR$/.git" />
+      <root url="file://$PROJECT_DIR$/../decmesh3d/testdata" />
+      <root url="file://$PROJECT_DIR$/../.idea" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/../decmesh3d/.git" />
+      <root url="file://$PROJECT_DIR$/../math3d/.idea" />
+      <root url="file://$PROJECT_DIR$/../decmesh3d/.idea" />
+    </excluded>
+  </library>
+</component>
